@@ -1,0 +1,31 @@
+_repo: The-first-American-King_72226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hastings, George Gordon
+    gutenberg_agent_id: '56600'
+    url: http://www.gutenberg.org/2009/agents/56600
+description: ''
+gutenberg_issued: '2023-11-25'
+identifiers:
+  gutenberg: '72226'
+language: en
+pgterms:marc904: https://archive.org/details/firstamericanki00hast/page/n7
+pgterms:marc905: 20190208035032hastings
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bThe Smart Set Publishing Co., $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'United States -- Politics and government -- Fiction'
+- !lcsh 'Speculative fiction'
+- !lcc 'PS'
+- GITenberg
+title: The first American King
+url: http://www.gutenberg.org/ebooks/72226
