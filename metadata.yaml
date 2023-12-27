@@ -1,11 +1,16 @@
 _repo: The-first-American-King_72226
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72226-h/images/cover.jpg
 creator:
   author:
     agent_name: Hastings, George Gordon
     gutenberg_agent_id: '56600'
     url: http://www.gutenberg.org/2009/agents/56600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72226#The-first-American-King
 gutenberg_issued: '2023-11-25'
 identifiers:
   gutenberg: '72226'
